@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kiss Goodnight"
+  short_description: "Wrap up work and stop unused development tools"
+  default_prompt: "Use $kiss-goodnight to wrap up my work, stop verified unused local tools, and leave a short handoff."
